@@ -2,8 +2,12 @@
 
 ## CCC
 
-analyze color matching game answer.
+色当てゲームの回答を自動解析
 
 ## RealtimeWhoisView
 
-realtime display global ip and country name.
+リアルタイムにグローバルIPと所在国を表示
+
+# ToSPatchAutoExtractor
+
+Tree of Savior パッチ自動展開
